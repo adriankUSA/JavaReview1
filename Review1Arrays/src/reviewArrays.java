@@ -5,6 +5,8 @@ public class reviewArrays {
 
     /**
      * This method takes in two integers and prints the larger number.
+     * @param num1, an integer
+     * @param num2, another integer
      */
     public void printGreaterThan(int num1, int num2) {
         System.out.println(" ");
@@ -65,4 +67,14 @@ public class reviewArrays {
         return 0;
     }
 
+    /**
+     * This method should take in a positive int and return the first digit.
+     * If the number is negative, just return 0.
+     * You may not turn turn the integer into a string.
+     * @param num, an integer.
+     * @return int, the first digit.
+     */
+    public int findFirstDigit(int num) {
+        return 0;
+    }
 }
